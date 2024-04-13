@@ -1,0 +1,57 @@
+<html>
+    <title> School Election</title> 
+<body>
+    <header>
+        <h1 style="text-align:center"> What Is School Election</h1>
+    </header>
+        <main>
+            <p> School election is a kind of activity that the student will run for the position in the school that they want to be.
+                They will need to make up a team and find people to fill in the team. Then they will make poster and banner to let the other student to know about them. They also will have a campaign to perform any kind of performance. 
+
+            <b>I'm finding people for this position so let's take a look.</b>
+            
+        
+            </p>
+            <table border="line" style="background-color:lightblue">
+                <tr>
+                    <td>Position</td>
+                    <td>Work to do</td>
+                    
+                </tr>
+
+                 <tr>
+                     <td>Vice President</td>
+                     <td>Helping the president create new plan</td>
+                     
+                 </tr>
+                 <tr>
+                     <td>Secretary</td>
+                     <td>Take down notes for President and Vice         President</td>
+                    
+                 </tr>
+                <tr>
+                     <td>P.R.O.</td>
+                     <td>Protect the citizen from fighting</td>
+                     
+                 </tr>
+
+                
+
+            </table>
+            <br/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_r6HDaWt9iKm0owT5lP3hPckHeSgtW6mvzm3UKlvKQ&s" width="700px"/>
+        
+
+    
+        </main>
+        <footer style="background-color:darkblue;color:white">
+           <b> My phone number:</b> 0328500008
+        </footer>
+
+ </body>
+      
+
+</html>
+    
+
+
